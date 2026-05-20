@@ -15,7 +15,7 @@ I'm a Software Engineer with expertise in full-stack development, backend system
 ## 💼 Professional Experience
 
 ### Software Engineer Intern
-**eInfochips** | Ahmedabad, India | May 2023 ��� Aug 2023
+**eInfochips** | Ahmedabad, India | May 2023 – Aug 2023
 - Designed and launched 5+ REST APIs for a payment-tracking module, reducing invoice processing time by **40%**
 - Implemented OAuth2.0, JWT, and RBAC security protocols, achieving **95% test coverage** and eliminating critical security vulnerabilities
 - Containerized the service on Docker, deployed to AWS EC2, and established GitHub Actions CI/CD pipelines for automated testing and deployment
@@ -23,8 +23,10 @@ I'm a Software Engineer with expertise in full-stack development, backend system
 
 ### Transfer Credit Aide
 **Academic Transfer Credit Solutions** | 2026 - Present
-- Process and validate 150+ academic records daily with strict compliance requirements, ensuring high accuracy in high-volume operational systems
-- Identify inconsistencies in transfer articulation and enforce standardized evaluation rules across domestic and international records
+- Processed and validated **150+ academic records daily**, achieving **near-zero errors** through systematic verification and clear documentation
+- Reduced transfer evaluation backlog from **5,000+ to under 500 records** by applying consistent rules, researching edge cases, and documenting findings for faster evaluator decisions
+- Improved evaluator throughput by **15 cases/day** by identifying discrepancies upfront, saving supervisors **15 min/case** (~2 hours/day)
+- Identified inconsistencies in transfer articulation and enforced standardized evaluation rules across domestic and international records
 
 ## 🛠️ Tech Stack & Skills
 
@@ -102,6 +104,7 @@ Full-featured music streaming application clone with comprehensive playback and 
 - **Specializations**: Full-stack development, backend systems, mobile development, cloud deployment
 - **Cloud Experience**: AWS (EC2, Lambda, S3), CI/CD automation with GitHub Actions
 - **Security Focus**: OAuth2.0, JWT, RBAC implementation, secure API design
+- **Operational Excellence**: High-volume data processing, quality assurance, process optimization
 
 ## 🤝 Let's Connect!
 
