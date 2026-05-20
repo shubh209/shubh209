@@ -14,11 +14,8 @@ I'm a Software Engineer with a passion for scalable systems. I am a goal focus p
 ## 💼 Professional Experience
 
 - **[Transfer Credit Aide]** at [Academic Transfer Credit Solutions] (2026 - Present)
-  - [Process and validate 150+ academic records daily with strict compliance requirements, ensuring high accuracy in a
-high-volume operational system.]
-  - [Identify inconsistencies in transfer articulation and enforce standardized evaluation rules across domestic and international
-records]
-
+  - [Process and validate 150+ academic records daily with strict compliance requirements, ensuring high accuracy in a high-volume operational system.]
+  - [Identify inconsistencies in transfer articulation and enforce standardized evaluation rules across domestic and international records]
 
 ## 🛠️ Tech Stack & Skills
 
@@ -34,15 +31,45 @@ records]
 
 ## 🌟 Featured Projects
 
-### [Project Name](https://github.com/yourusername/project-name)
-A brief description of what this project does and why it's important.
-- **Tech Stack**: [Technologies Used]
-- **Highlights**: [Key features or accomplishments]
+### [cf_ai_Youtube-Ads-Compliance-Pipeline](https://github.com/shubh209/cf_ai_Youtube-Ads-Compliance-Pipeline)
+A comprehensive pipeline for YouTube ad compliance checking using AI.
+- **Tech Stack**: Python
+- **Highlights**: Automated compliance validation for YouTube advertisements
 
-### [Project Name](https://github.com/yourusername/another-project)
-Another excellent project description.
-- **Tech Stack**: [Technologies Used]
-- **Highlights**: [Key features or accomplishments]
+### [Fake-Reviews-Detection](https://github.com/shubh209/Fake-Reviews-Detection)
+A machine learning project to detect and filter fake product reviews.
+- **Tech Stack**: Python
+- **Highlights**: Review authenticity detection using ML algorithms
+
+### [Fintech-Clone-React-Native](https://github.com/shubh209/Fintech-Clone-React-Native)
+A React Native application replicating fintech platform features.
+- **Tech Stack**: TypeScript, React Native
+- **Highlights**: Mobile financial application UI/UX
+
+### [Hearloop](https://github.com/shubh209/Hearloop)
+An innovative audio streaming and social platform.
+- **Tech Stack**: TypeScript
+- **Highlights**: Real-time audio streaming capabilities
+
+### [Spotify-Clone](https://github.com/shubh209/Spotify-Clone)
+A full-featured music streaming application clone.
+- **Tech Stack**: JavaScript
+- **Highlights**: Complete music library, playlist management, and playback controls
+
+### [v0-portfolio-website](https://github.com/shubh209/v0-portfolio-website)
+A modern portfolio website showcasing your projects and skills.
+- **Tech Stack**: TypeScript
+- **Highlights**: Responsive design, project showcase
+
+## 📚 Other Projects
+
+- [DriveID](https://github.com/shubh209/DriveID) - Drive identification and management system
+- [Heap-Memory-Manager](https://github.com/shubh209/Heap-Memory-Manager) - Memory management implementation
+- [OS-Project-G5-Team-3](https://github.com/shubh209/OS-Project-G5-Team-3) - Operating systems project
+- [Page-Replacement-Algorithm-Simulator](https://github.com/shubh209/Page-Replacement-Algorithm-Simulator) - Virtual memory page replacement algorithm simulator
+- [seo-audit-engine](https://github.com/shubh209/seo-audit-engine) - SEO auditing and analysis tool
+- [TextUtils](https://github.com/shubh209/TextUtils) - Text processing utilities
+- [shubh209](https://github.com/shubh209/shubh209) - Profile repository
 
 ## 📊 GitHub Stats
 
